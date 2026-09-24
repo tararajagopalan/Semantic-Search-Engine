@@ -1,1 +1,1 @@
-A self directed project I completed where I built a flask application search bar to query relevant documents. QueryingProjectPresentation.pdf walks through the steps I took to complete this project :)
+
